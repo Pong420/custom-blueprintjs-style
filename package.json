@@ -8,7 +8,8 @@
     "build": "sh ./scripts/build.sh"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "devDependencies": {
     "@blueprintjs/source": "https://github.com/palantir/blueprint.git#650d574978761fe363389747b2751ec56be34bfa",
