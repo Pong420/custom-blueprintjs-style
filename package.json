@@ -5,6 +5,7 @@
   "author": "Pong <samfunghp@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "dev": "yarn build && yarn build --watch",
     "build": "sh ./scripts/build.sh"
   },
   "files": [
